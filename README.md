@@ -10,3 +10,6 @@ processing data
 ### Python
 summariza basic grammar, functions, and rules
 
+### Git and Github 
+summarize my knowledge of Git and Github
+
