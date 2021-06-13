@@ -13,3 +13,12 @@ summariza basic grammar, functions, and rules
 ### Git and Github 
 summarize my knowledge of Git and Github
 
+LightGBM
+https://rightcode.co.jp/blog/information-technology/lightgbm-useful-for-kaggler
+
+Stacking
+https://rightcode.co.jp/blog/information-technology/kaggler-stacking-prediction-accuracy
+
+PyCaret
+https://rightcode.co.jp/blog/information-technology/machine-learning-automation-pycaret
+
