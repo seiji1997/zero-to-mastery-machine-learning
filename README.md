@@ -17,6 +17,7 @@ LightGBM
 https://rightcode.co.jp/blog/information-technology/lightgbm-useful-for-kaggler
 
 Stacking
+using lightgbm, random forest, multiple regression　
 https://rightcode.co.jp/blog/information-technology/kaggler-stacking-prediction-accuracy
 
 PyCaret
