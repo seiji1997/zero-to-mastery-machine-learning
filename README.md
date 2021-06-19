@@ -23,5 +23,5 @@ https://rightcode.co.jp/blog/information-technology/kaggler-stacking-prediction-
 PyCaret <br>
 https://rightcode.co.jp/blog/information-technology/machine-learning-automation-pycaret
 
-Hyperparameter tuning in XGBoost
+Hyperparameter tuning in XGBoost<br>
 https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f
