@@ -1,27 +1,61 @@
 # Zero-to-Mastery-Machine-Learning
 Zero to Mastery Machine Learning
 
-### Matplotlib
-Make the data easier to read using Matplotlib
+### 01, python and library
+- 01, [python]()
+- 02, [numpy]()
+- 03, [pandas]()
+- 04, [matplotlib]()
+- 05, [seaborn]()
+- 06, [scipy]()
 
-### numpy
-processing data
+### 02, mathematics
+- 01, [sympy]()
+- 02, [数学]()
+- 03, [微分]()
+- 04, [積分]()
+- 05, [線形代数]()
+- 06, [自己情報量]()
 
-### Python
-summariza basic grammar, functions, and rules
+### 03, statistics
+- 01, [記述統計]()
+- 02, [確率と確率分布]()
+- 03, [推測統計]()
+- 04, [統計的仮説検定]()
+- 05, [線形モデル分析]()
+- 06, [ベイズ統計]()
 
-### Git and Github 
-summarize my knowledge of Git and Github
+### 04, preprocessing
+- 01, [数値データの取り扱い]()
+- 02, [カテゴリ変数の取り扱い]()
+- 03, [テキストデータの取り扱い]()
+- 04, [欠損値の取り扱い]()
+- 05, [特徴量のスケーリング]()
+- 06, [データセットの分割]()
+- 07, [特徴量の生成]()
+- 08, [特徴量の重要度評価]()
+- 09, [次元削減]()
+- 10, [時系列データの扱い]()
 
-LightGBM <br>
-https://rightcode.co.jp/blog/information-technology/lightgbm-useful-for-kaggler
+### 05, machine-learning
+- 01, [タスクと評価指標]()
+- 02, [モデルの評価]()
+- 03, [モデルのチューニング]()
+- 04, [線形回帰]()
+- 05, [ロジスティック回帰]()
+- 06, [サポートベクトルマシン]()
+- 07, [主成分分析]()
+- 08, [k平均法]()
+- 09, [k近傍法]()
+- 10, [クラスタリング]()
+- 11, [トピックモデル]()
+- 12, [決定木]()
+- 13, [アンサンブル学習]()
+- 14, [レコメンデーション]()
+- 15, [PyCaret]()
 
-Stacking <br>
-using lightgbm, random forest, multiple regression　<br>
-https://rightcode.co.jp/blog/information-technology/kaggler-stacking-prediction-accuracy
-
-PyCaret <br>
-https://rightcode.co.jp/blog/information-technology/machine-learning-automation-pycaret
-
-Hyperparameter tuning in XGBoost<br>
-https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f
+### 06, deep-learning
+- 01, [neural network]()
+- 02, [technique of deep learning]()
+- 03, [convolutional neural network]()
+- 04, [recurrent neural network]()
