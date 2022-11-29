@@ -1,23 +1,5 @@
-# 学習資料 - カテゴリ変数の取り扱い - 
-## 概要
-前処理に必要なカテゴリ変数の取り扱いを学習します。
-
-## 目標
-- [ ] 00, one-hot encoding
-- [ ] 01, dummy encoding
-- [ ] 02, effect encoding
-- [ ] 03, label encoding
-- [ ] 04, ordinal encoding
-- [ ] 05, feature hashing
-- [ ] 06, frequency encoding
-- [ ] 07, bin counting
-- [ ] 08, non encoding
-- [ ] 09, target encoding
-
-## 学習方法
-以下の参考資料を使って目標を達成します。
-
-## 学習項目
+# カテゴリ変数の取り扱い
+## web
 - [エンコーディング](https://qiita.com/tk-tatsuro/items/a06f1fa4f35639bcad8d)
 
 - [カテゴリデータの取り扱い](https://uribo.github.io/practical-ds/02/categorical.html)

@@ -1,25 +1,18 @@
-# 学習資料 - リカレントニューラルネットワーク - 
-## 概要
-リカレントニューラルネットワークを学習します。
-
-## 目標
+# リカレントニューラルネットワーク 
 自然言語処理<br>
-- [ ] 00, Word2Vec
-- [ ] 01, RNNとは
-- [ ] 02, BPTT(Backpropagation Through Time)
-- [ ] 03, ELMo
-- [ ] 04, LSTM
-- [ ] 05, GRU
-- [ ] 06, Seq2Seq
-- [ ] 07, Attention
-- [ ] 08, Transformer
-- [ ] 09, BERT
-- [ ] 10, GPT
+- Word2Vec
+- RNN
+- BPTT(Backpropagation Through Time)
+- ELMo
+- LSTM
+- GRU
+- Seq2Seq
+- Attention
+- Transformer
+- BERT
+- GPT
 
-## 学習方法
-以下の参考資料を使って目標を達成します。
-
-## 学習項
+## web
 - [RNN(リカレントニューラルネットワーク)の概要とPython実装方法を分かりやすく解説！](https://toukei-lab.com/rnn)
 - [Word2Vecを理解する](https://qiita.com/g-k/items/69afa87c73654af49d36)
 - [深層学習 再帰的ニューラルネットワーク](https://zenn.dev/takasaki/articles/ce60ffcd6f736a)

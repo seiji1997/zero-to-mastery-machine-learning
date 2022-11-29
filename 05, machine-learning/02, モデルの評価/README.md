@@ -1,20 +1,13 @@
-# 学習資料 - モデルの評価 - 
-## 概要
-モデルの評価を学習します。
+# モデルの評価
+- ホールドアウト法
+- LOOCV
+- k分割交差検証
+- グリッドサーチ
+- バイアスとバリアンス
+- 汎化性能
+- 過学習(overfitting)と学習不足(underfitting)
 
-## 目標
-- [ ] 00, ホールドアウト法
-- [ ] 01, LOOCV
-- [ ] 02, k分割交差検証
-- [ ] 03, グリッドサーチ
-- [ ] 04, バイアスとバリアンス
-- [ ] 05, 汎化性能
-- [ ] 06, 過学習(overfitting)と学習不足(underfitting)
-
-## 学習方法
-以下の参考資料を使って目標を達成します。
-
-## 学習項目
+## web
 - [(超重要)過学習と汎化性能を理解する(hold-out法を解説)【機械学習入門7】](https://datawokagaku.com/holdout/)
 - [LOOCVについて解説&Pythonで実装する【機械学習入門8】](https://datawokagaku.com/loocv/)
 - [k-Fold Cross Validation(交差検証)を解説する【機械学習入門9】](https://datawokagaku.com/kfoldcv/)

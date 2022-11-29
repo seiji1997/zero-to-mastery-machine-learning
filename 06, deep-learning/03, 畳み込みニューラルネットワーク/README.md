@@ -1,49 +1,42 @@
-# 学習資料 - 畳み込みニューラルネットワーク - 
-## 概要
-畳み込みニューラルネットワークを学習します。
-
-## 目標
+# 畳み込みニューラルネットワーク
 CNN構造の理解<br>
-- [ ] 00, CNN全体の構造
-- [ ] 01, 畳み込み層
-- [ ] 02, バイアス
-- [ ] 03, パディング
-- [ ] 04, ストライド
-- [ ] 05, チャンネル
-- [ ] 06, プーリング層
-- [ ] 07, 全結合層
+- CNN全体の構造
+- 畳み込み層
+- バイアス
+- パディング
+- ストライド
+- チャンネル
+- プーリング層
+- 全結合層
 
 代表的なCNNモデル<br>
-- [ ] 08, LeNet
-- [ ] 09, AlexNet
-- [ ] 10, GoogLeNet
-- [ ] 11, VGG
-- [ ] 12, ResNet
+- LeNet
+- AlexNet
+- GoogLeNet
+- VGG
+- ResNet
 
 知っておくと良いCNNモデル<br>
-- [ ] 13, MobileNet
-- [ ] 14, NAS
-- [ ] 15, EfficientNet
-- [ ] 16, Wide ResNet
-- [ ] 17, DenseNet
-- [ ] 18, SENet
-- [ ] 19, YOLO
-- [ ] 20, SSD
-- [ ] 21, R-CNN
-- [ ] 22, FPN
-- [ ] 23, FCN
-- [ ] 24, SegNet
-- [ ] 25, U-Net
-- [ ] 26, PSPNet
-- [ ] 27, Diated Convolution
-- [ ] 28, Atrous Convolution
-- [ ] 29, MS COCO
-- [ ] 30, Mask R-CNN
+- MobileNet
+- NAS
+- EfficientNet
+- Wide ResNet
+- DenseNet
+- SENet
+- YOLO
+- SSD
+- R-CNN
+- FPN
+- FCN
+- SegNet
+- U-Net
+- PSPNet
+- Diated Convolution
+- Atrous Convolution
+- MS COCO
+- Mask R-CNN
 
-## 学習方法
-以下の参考資料を使って目標を達成します。
-
-## 学習項目
+## web
 CNN構造の理解<br>
 - [定番のConvolutional Neural Networkをゼロから理解する](https://deepage.net/deep_learning/2016/11/07/convolutional_neural_network.html)
 - [im2colの実装【ゼロつく1のノート(実装)】](https://www.anarchive-beta.com/entry/2020/08/23/180000)

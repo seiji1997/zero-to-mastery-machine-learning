@@ -1,15 +1,5 @@
-# 学習資料 - Python - 
-## 概要
-以下の学習補助資料を参考にして学習を進めてください。
+# Python
 
-## 目標
-- [ ] 00, データ分析に必要なPythonの使い方を理解する
-
-## 学習方法
-以下の学習項目を参照して学習を実施します。
-notebookなどで実装したものは各フォルダ下に保存します。
-
-## 学習項目
 ### Pythonとは
 - [なぜ機械学習にPythonが使われるのか？機械学習でPythonが使われる4つの理由](https://www.codexa.net/why-use-python-for-machine-learning/)
 

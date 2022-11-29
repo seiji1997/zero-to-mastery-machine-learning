@@ -1,16 +1,5 @@
-# 学習資料 - Seaborn - 
-## 概要
-以下の学習補助資料を参考にして学習を進めてください。
-
-## 目標
-- [ ] 00, seabornを理解する
-
-## 学習方法
-以下の学習項目を参照して学習を実施します。
-notebookなどで実装したものは各フォルダ下に保存します。
-
-## 学習項目
-### webサイト
+# Seaborn
+### web
 - [seaborn - codExa](https://www.codexa.net/seaborn-python/)
 
 ### データ可視化：Matplotlib&Seaborn

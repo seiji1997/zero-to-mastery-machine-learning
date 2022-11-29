@@ -1,14 +1,5 @@
-# 学習資料 - 積分 - 
-## 概要
-積分を学習する。
-
-## 目標
-- [ ] 00, 積分を知る。
-
-## 学習方法
-積分をyoutubeで学習する。
-
-## 学習項目
+# 積分
+## web
 - [積分のやり方と基礎公式。不定積分と定積分の違いとは？](https://atarimae.biz/archives/22555) 
 - [中学数学からはじめる微分積分](https://www.youtube.com/watch?v=4p1rwfXbCoY&t)
 - [今週の積分#1](https://www.youtube.com/watch?v=vm7LcyupMs0)

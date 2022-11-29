@@ -1,23 +1,4 @@
-# 学習資料 - 線形代数 - 
-## 概要
-線形代数を学習する。
-
-## 目標
-- [ ] 00, 機械学習に必要な線形代数を理解する。
-- [ ] 01, スカラ・ベクトル・行列・テンソル
-- [ ] 02, ベクトルの内積
-- [ ] 03, 行列
-- [ ] 04, 行列積
-- [ ] 05, 転置
-- [ ] 06, 単位行列
-- [ ] 07, 逆行列
-- [ ] 08, 固有値
-- [ ] 09, 固有ベクトル
-
-## 学習方法
-以下の学習項目を参照して線形代数を学習する。
-
-## 学習項目
+# 線形代数
 #### webサイト
 - [線形代数 - AIacademy](https://aiacademy.jp/texts/show/?id=184&context=subject-mathematics)
 - [線形代数 - Chainer](https://tutorials.chainer.org/ja/05_Basics_of_Linear_Algebra.html)

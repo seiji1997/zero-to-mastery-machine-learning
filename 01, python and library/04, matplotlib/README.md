@@ -1,15 +1,4 @@
-# 学習資料 - Matplotlib - 
-## 概要
-以下の学習補助資料を参考にして学習を進めてください。
-
-## 目標
-- [ ] 00, matplotlibを理解する
-
-## 学習方法
-以下の学習項目を参照して学習を実施します。
-notebookなどで実装したものは各フォルダ下に保存します。
-
-## 学習項目
+# Matplotlib
 ### webサイト
 - [Matplotlib - codExa](https://student.codexa.net/users/cart/matplotlib) 
 - [Matplotlib - AIacademy](https://aiacademy.jp/texts/show/?id=22&context=subject-python3)
