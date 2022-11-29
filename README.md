@@ -1,5 +1,11 @@
 # Zero-to-Mastery-Machine-Learning
 Zero to Mastery Machine Learning
+- 00, [人工知能・機械学習でよく使われるワード徹底まとめ！](https://rightcode.co.jp/blog/information-technology/artificial-intelligence-machine-learning-word)
+- 01, [いまさら聞けない！機械学習とは？人工知能と機械学習の関係や実例を交えて説明します](https://www.codexa.net/what-is-machine-learning/)
+- 02, [ディープラーニングってなに？その仕組みや活用分野、関連資格までを紹介](https://rightcode.co.jp/blog/information-technology/deeplearning-structure-utilization)
+- 03, [人工知能の作り方とは？エンジニアが人工知能（AI）を作り始める前に知っておくべき3つの事](https://www.codexa.net/how-to-build-artificial-intelligence/)
+- 04, [【機械学習】教師あり学習と教師なし学習の違い](https://www.youtube.com/watch?v=U8uqieKYtY4)
+- 05, [人工知能が騙される？Adversarial Examplesとは？](https://rightcode.co.jp/blog/information-technology/ai-adversarial-examples)
 
 ### 01, python and library
 - 01, [Python](01%2C%20Python)
